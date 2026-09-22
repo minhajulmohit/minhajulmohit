@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm MD Minhajul Islam Mohit
 
-<!--
-**minhajulmohit/minhajulmohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Full Stack AI Web Development Student | Programming Hero
 
-Here are some ideas to get you started:
+<img src="./banner.png" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm currently learning Full Stack AI Web Development as a student through Programming Hero.
+I'm passionate about web development and enjoy building projects while learning modern technologies.
+
+I am continuously improving my programming skills and exploring new tools and technologies to become a professional web developer.
+
+## 🚀 Current Activities
+
+* 🌱 Currently learning Full Stack AI Web Development at Programming Hero
+* ⚛️ Exploring React and Next.js
+* 💻 Building web development projects
+* 🎨 Improving my Tailwind CSS skills
+* 📚 Practicing JavaScript and TypeScript
+* 🔍 Exploring modern web development technologies
+
+## 🛠️ Skills
+
+## 🌐 Connect With Me
+
+## 📊 GitHub Stats
