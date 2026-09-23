@@ -22,6 +22,15 @@ I am continuously improving my programming skills and exploring new tools and te
   
 <br/>
 
+## 🚀 Current Activities:
+🌱 Currently learning Full Stack AI Web Development at Programming Hero. <br/>
+⚛️ Exploring React and Next.js. <br/>
+💻 Building web development projects. <br/>
+🎨 Improving my Tailwind CSS skills. <br/>
+📚 Practicing JavaScript and TypeScript. <br/>
+🔍 Exploring modern web development technologies. <br/>
+
+
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
