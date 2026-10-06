@@ -36,7 +36,7 @@ I am continuously improving my programming skills and exploring new tools and te
 
 <div>
   <p align="left">
-    <a href="https://www.linkedin.com/in/md-minhajul-islam-mohit-856261439" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="minhajulmohit" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/md-minhajul-islam-mohit" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="minhajulmohit" height="30" width="40" /></a>
     <a href="https://discord.gg/mohit202602" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="mohit202602" height="30" width="40" /></a>
   
   </p>
