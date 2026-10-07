@@ -1,9 +1,8 @@
-<!--- banner --->
-![My Banner](./banner.gif)
+<!-- Banner -->
 
-<br/>
-
-</div>
+<p align="center">
+  <img src="./bannergif.gif" alt="My Banner" width="100%">
+</p>
 
 <br/>
 
