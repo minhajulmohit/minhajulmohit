@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner.png" alt="Hello world">
+![My Banner](./banner.gif)
 
 <br/>
 
