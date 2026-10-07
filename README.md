@@ -3,13 +3,6 @@
 
 <br/>
 
-<!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm MD Minhajul Islam Mohit</h1></summary>
-    <!--- typo --->
- 
-  </ul>
 </div>
 
 <br/>
