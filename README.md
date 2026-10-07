@@ -1,5 +1,3 @@
-<!-- Banner -->
-
 <p align="center">
   <img src="./bannergif.gif" alt="My Banner" width="100%">
 </p>
