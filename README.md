@@ -1,19 +1,5 @@
 ![Portfolio Animation](./asset/Explore%20Every%20Path.gif)
 
-<!--- banner --->
-<img src="./banner.png" alt="Hello world">
-
-<br/>
-
-<!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm MD Minhajul Islam Mohit</h1></summary>
-    <!--- typo --->
-
-  </ul>
-</div>
-
 <br/>
 
 <!--- about --->
