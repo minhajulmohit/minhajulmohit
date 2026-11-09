@@ -44,11 +44,27 @@ I am continuously improving my programming skills and exploring new tools and te
 
 ### CSS Frameworks & Libraries:
 
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/minhajulmohit)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/minhajulmohit) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat)](https://ui.shadcn.com/)
 
-### JavaScript Frameworks & Libraries:
+### JavaScript Runtime, Frameworks & Libraries:
 
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next)](https://github.com/minhajulmohit)
+[![JavaScript Runtime, Frameworks & Libraries](https://skillicons.dev/icons?i=nodejs,express,react,next)](https://github.com/minhajulmohit)
+
+### Database:
+
+[![Database](https://skillicons.dev/icons?i=mongodb)](https://github.com/minhajulmohit)
+
+### AI APIs:
+
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![GPT](https://img.shields.io/badge/GPT%20(OpenAI)-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+
+### Authentication:
+
+[![Better Auth](https://img.shields.io/badge/Better%20Auth-121212?style=flat)](https://www.better-auth.com/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat)](https://oauth.net/2/)
 
 ### Deployment Platform:
 
@@ -56,7 +72,7 @@ I am continuously improving my programming skills and exploring new tools and te
 
 ### Tools & Technologies:
 
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode)](https://github.com/minhajulmohit)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,vite,figma)](https://github.com/minhajulmohit)
 
 <br/>
 
